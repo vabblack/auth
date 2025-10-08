@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "70a07a1c3614b285",
+    "username": "Deepak",
+    "password": "123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
+  },
+  {
     "id": "c754453066bdc889",
     "username": "user2",
     "password": "123",
